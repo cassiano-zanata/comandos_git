@@ -1,0 +1,4 @@
+git clone + insert (comando para clonar link do repositório)
+git commit -m "Primeiro arquivo do meu repositorio"
+git log exibe historico dos commits
+git push origin (branch) envia os arquivos para nuvem para o git
