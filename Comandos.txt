@@ -6,6 +6,7 @@ git pull origin main recebe arquivo do repositorio git
 git branch nomeBranch cria uma branch
 git branch lista as branch criadas
 git checkout nomeBranch entra na branch selecionada
+git merge (branch que deseja trazer alteração para branch atual)
 
 
 
