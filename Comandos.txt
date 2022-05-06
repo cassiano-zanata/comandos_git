@@ -3,6 +3,10 @@ git commit -m "Primeiro arquivo do meu repositorio"
 git log exibe historico dos commits
 git push origin (branch) envia os arquivos para nuvem para o git
 git pull origin main recebe arquivo do repositorio git
+git branch nomeBranch cria uma branch
+git branch lista as branch criadas
+git checkout nomeBranch entra na branch selecionada
+
 
 
 
