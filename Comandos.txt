@@ -3,3 +3,13 @@ git commit -m "Primeiro arquivo do meu repositorio"
 git log exibe historico dos commits
 git push origin (branch) envia os arquivos para nuvem para o git
 git pull origin main recebe arquivo do repositorio git
+
+
+
+
+
+##Obs
+Quando fizer alteração no arquivo para enviar para o repositorio precisa
+1 - git add .
+2 - git commit -m "Mensagem"
+3 - git push origin
